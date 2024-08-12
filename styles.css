@@ -1,0 +1,12 @@
+body{
+    margin: 50dp;
+    padding: 50dp;
+}
+.container{
+    width: 50dp;
+    height: 100dp;
+    margin: auto;
+}
+#p2{
+    color:aqua
+}

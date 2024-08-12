@@ -1,0 +1,35 @@
+h1 {
+  color: beige;
+  background-color: black;
+}
+p {
+  color: brown;
+}
+.card {
+  border: 3px solid black;
+  width: 400px;
+  height: 500px;
+  border-radius: 25px;
+  padding: 10px;
+  margin: 10px;
+}
+img {
+  width: 100%;
+  border-radius: 25px;
+}
+a {
+  color: #12b8eb;
+}
+
+[traget="_blank"]::after {
+  content: "";
+  display: inline-block;
+  color: blueviolet;
+  width: 10px;
+  height: 10px;
+  background: url(https://rukminim2.flixcart.com/image/850/1000/j84so7k0/poster/r/n/h/large-minions-wallpaper-on-hi-quality-large-print-36x24-inches-original-imaese23zjggevmm.jpeg?q=90&crop=false);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: auto 5px;
+}
