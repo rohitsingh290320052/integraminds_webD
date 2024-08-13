@@ -1,0 +1,47 @@
+#outer{
+    width: 1000px;
+    height: 800px;
+    background-color: black;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    padding-top: 20px;
+}
+h2{
+    color: aliceblue;
+    text-align: center;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    left: 350px;
+    border-radius: 15px;
+}
+input{
+    width: 400px;
+    height: 40px;
+    position: absolute;
+    top: 520px;
+    left: 300px;
+    border-radius: 15px;
+}
+#inner{
+    position: absolute;
+    top: 580px;
+    left: 265px;
+    border-radius: 1rem;
+}
+#inner  button{
+    border-radius: 15px;
+}
+p{
+    position: absolute;
+    top: 620px;
+    color: aliceblue;
+    font-size: 15px;
+    left: 100px;
+}
